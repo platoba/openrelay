@@ -435,3 +435,8 @@ Having trouble? Check the **[FAQ (English)](faq-en.md)** | **[常见问题 (中�
 Open Core model:
 - **Framework** (proxy, format translation, config): [MIT](LICENSE)
 - **Pro features** (custom model groups, higher request limits): [Commercial](COMMERCIAL-LICENSE.txt)
+
+## Related AI resources
+
+For free AI model quotas, API credits, and OpenAI-compatible provider comparisons, [yangmao.ai](https://yangmao.ai/en/free-ai-api/) maintains a bilingual free AI API and free-tier database.
+
